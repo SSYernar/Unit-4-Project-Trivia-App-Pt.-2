@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://github.com/SSYernar/Unit-4-Project-Trivia-App-Pt.-2/blob/main/Screen%20Recording%202023-10-13%20at%2010.59.25%20PM.gif) .
 
 ## Notes
 
